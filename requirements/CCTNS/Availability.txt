@@ -1,0 +1,5 @@
+The planned downtime for the System must not exceed <xx> hours per rolling three month period. 
+The System is considered to be down if any user is unable to perform any normal System function.
+Unplanned downtime for the System must not exceed xx hours per rolling three month period. 
+The number of incidents of unplanned downtime for the System must not exceed <x> per rolling three month period. 
+In the event of any software or hardware failure, it must be possible to restore the System  within no more than <xx> hours.

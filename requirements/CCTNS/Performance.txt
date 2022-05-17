@@ -1,0 +1,6 @@
+The System must provide adequate response times for commonly performed functions under both standard and peak conditions.
+The System must be able to perform a simple search within 5-8 seconds and an advanced search within 10-15 seconds.
+Performing a search means returning a result list. It does not include retrieving the records themselves. 
+The System must be able to retrieve and display within 5-8 seconds the case which has been accessed within the previous 2 months. 
+The System must be able to retrieve and display within 20 seconds the case which has not been accessed within the previous 2 months.
+The System be scaleable and must not have any features which would preclude use in small or large police stations, with varying numbers of cases handled.

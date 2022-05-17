@@ -1,0 +1,10 @@
+All error messages produced by the System must be meaningful, so that they can be appropriately acted upon by the users who are likely to see them. 
+Each error message will be accompanied by explanatory text and an indication of the actions which the user can take in response to the error.
+The System must employ a single set of user interface rules, or a small number of sets to provide a familiar and common look and feel for the application. 
+The System must be able to display several entities simultaneously.
+The interfaces must be made customizable or user-configurable to the extent possible. 
+The System user interface must be suitable for users with special needs; that is, compatible with specialist software that may be used and with appropriate interface guidelines.
+The System must provide End User and Administrator functions which are easy to use and intuitive throughout. 
+The System must allow persistent defaults for data entry where desirable.It should include user-definable values, values same as previous item and values derived from context. 
+Frequently-executed System transactions must be designed so that they can be completed with a small number of interactions 
+Where the System employs a graphical user interface, it must allow users to customise it. 

@@ -1,0 +1,10 @@
+The System must allow the user to limit access to cases to specified users or user groups. 
+The system should provide for role-based control for the functionality within the system.
+The System must allow a user to be a member of more than one group. 
+The System must allow only admin-users to set up user profiles and allocate users to groups. 
+The System should allow a user to stipulate which other users or groups can access cases. 
+The System must allow changes to security attributes for groups or users to be made only by super-user. 
+If a user requests access to, or searches for, a case which he does not have the right to access, the System must provide one of the following responses display title and metadata; display the existence of a case but not its title or other metadata; do not display any case information or indicate its existence in any way. 
+If a user performs a quick or advanced search, the System must never include in the search result list any record which the user does not have the right to access.
+If the System allows users to make unauthorised attempts to access cases, it must log these in the audit trail. 
+Any access to cases, and all other activities involving the cases and related documents or data should also need to be stored in the audit trail to ensure legal admissibility and to assist in data recovery.

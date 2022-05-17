@@ -1,0 +1,81 @@
+The System must allow the user to limit access to cases to specified users or user groups. 
+The system should provide for role-based control for the functionality within the system.
+The System must allow a user to be a member of more than one group. 
+The System must allow only admin-users to set up user profiles and allocate users to groups. 
+The System should allow a user to stipulate which other users or groups can access cases. 
+The System must allow changes to security attributes for groups or users to be made only by super-user. 
+If a user requests access to, or searches for, a case which he does not have the right to access, the System must provide one of the following responses display title and metadata; display the existence of a case but not its title or other metadata; do not display any case information or indicate its existence in any way. 
+If a user performs a quick or advanced search, the System must never include in the search result list any record which the user does not have the right to access.
+If the System allows users to make unauthorised attempts to access cases, it must log these in the audit trail. 
+Any access to cases, and all other activities involving the cases and related documents or data should also need to be stored in the audit trail to ensure legal admissibility and to assist in data recovery.
+The planned downtime for the System must not exceed <xx> hours per rolling three month period. 
+The System is considered to be down if any user is unable to perform any normal System function.
+Unplanned downtime for the System must not exceed xx hours per rolling three month period. 
+The number of incidents of unplanned downtime for the System must not exceed <x> per rolling three month period. 
+In the event of any software or hardware failure, it must be possible to restore the System  within no more than <xx> hours.
+All error messages produced by the System must be meaningful, so that they can be appropriately acted upon by the users who are likely to see them. 
+Each error message will be accompanied by explanatory text and an indication of the actions which the user can take in response to the error.
+The System must employ a single set of user interface rules, or a small number of sets to provide a familiar and common look and feel for the application. 
+The System must be able to display several entities simultaneously.
+The interfaces must be made customizable or user-configurable to the extent possible. 
+The System user interface must be suitable for users with special needs; that is, compatible with specialist software that may be used and with appropriate interface guidelines.
+The System must provide End User and Administrator functions which are easy to use and intuitive throughout. 
+The System must allow persistent defaults for data entry where desirable.It should include user-definable values, values same as previous item and values derived from context. 
+Frequently-executed System transactions must be designed so that they can be completed with a small number of interactions 
+Where the System employs a graphical user interface, it must allow users to customise it. 
+The System must provide adequate response times for commonly performed functions under both standard and peak conditions.
+The System must be able to perform a simple search within 5-8 seconds and an advanced search within 10-15 seconds.
+Performing a search means returning a result list. It does not include retrieving the records themselves. 
+The System must be able to retrieve and display within 5-8 seconds the case which has been accessed within the previous 2 months. 
+The System must be able to retrieve and display within 20 seconds the case which has not been accessed within the previous 2 months.
+The System be scaleable and must not have any features which would preclude use in small or large police stations, with varying numbers of cases handled.
+The user interfaces should be designed to make them user-intuitive. 
+The user interfaces of the system should comply with Standard ISO 9241. 
+ISO 9240 shall be the standard for guidance on ICT accessibility and application user interfaces to meet its requirements and recommendations. 
+Content accessibility WCAG 1.0 shall be the standard used for guidance on content accessibility. 
+All non-text media objects, such as graphical images or video, should be provided with alternative equivalent textual descriptions and/or with equivalent text-based functionality. 
+Navigation should be designed to help users understand where they are, where they have been and where they can go next. 
+Each page or window should provide the user with a clear and sufficient indication of where he or she is in the navigation structure.
+Alternative access paths for navigating to a specific unit of content should be offered to support different navigation strategies. 
+The number of navigation steps needed to reach a certain piece of content should be minimized.
+Splash screens should be avoided unless they provide useful content or feedback about the application state to the user. 
+If a splash screen is used, a navigation option to skip it should be offered. 
+Additional windows such as new browser windows or pop-up windows should only be opened if this supports the user’s task.
+Vertical scrolling should be minimized by placing important information at the top and providing links to information that is further down the page.
+User interfaces should be designed to allow activation of controls by a variety of input devices. 
+User interfaces should be designed to be as robust as possible in the face of changing technology.
+Potential user errors as well as the effort needed to recover from errors should be minimized. 
+The content of error messages shown on the pages or special error pages should clearly state the reason why the error occurred and, if possible, actions the user can take to resolve the error. 
+When designing user interfaces for use by diverse groups, input and output of information elements such as currency, units of measurement, should be designed so that they are usable. 
+Text should be able to be resized by the user, using functions provided by the user agent.
+The quality of textual content with respect to spelling and grammar should be sufficient so as not to impede readability.
+The reading and understanding of the textual content on the screen should be supported by suitable means, including the use of short sentences, the division of the text into shorter chunks or the presentation of content items in the form of bullet points.
+Fast skimming of text should be supported by the provision of clear links, bulleted lists, highlighted keywords, logical headings, and short phrases and sentences. 
+Text presented on the pages should be readable taking into account the expected display characteristics and spatial arrangement by consulting ISO 9241.
+Within-page links should be clearly distinguishable from other links that lead to a different page. 
+Within-page links are shown with dashed rather than solid underlines.
+Text pages containing large proportions of links should be formatted so that the presence of links does not impede the readability of the text. 
+Links representing the main navigation structure — should be labelled with terms that are familiar to the user, based on his/her general knowledge.
+The target or purpose of a link should be directly indicated by its label.Using appropriate terminology specific to the user’s tasks and information needs is important for making the content easy to understand. 
+Links that open new browser windows or pop-up windows should be clearly marked. 
+Navigation links should be clearly distinguishable from controls activating some action. 
+If a document is either too long, dispersed over several pages or in a specific layout that is not suitable for online reading, a printer-friendly version of the document should be provided.
+White space on a page that is space filled only with the background color should be used in such a way that it does not impair the visual skimming of the page. 
+The length of a page should be selected so as to support the primary purpose and use of the page. 
+Colour should be used with care, taking into account human capabilities and restrictions in perceiving colour, and not as the only means of conveying information. 
+If frames are used, care should be taken to avoid possible problems. It is important to title each frame, and to describe its purpose and how frames relate to one another other. 
+If frames are used, an alternative way of presenting relevant information without frames should be provided. 
+When style sheets and/or frames are turned off it should be possible for the user to read and understand the page; alternatively, the user should be provided with an equivalent alternative text-only page. 
+Pages should be designed using consistent layout schemes, supporting the user in finding similar information at the same position on different pages. 
+Page titles should be placed in a consistent location on the different pages. 
+When designing application pages, the general principles of human perception should be taken into account. Guidance on selecting and using different forms of interaction techniques is to be found in ISO 9241.
+Each page should contain a link leading to the home page of the application or to a landmark page that is easy to recognize for the user. 
+A separate navigation overview such as a site map should be provided for application showing the structure of the site in an overview form. 
+If navigation components (or overviews) are shown in conjunction with associated content, consistency between the navigation component and the content shown should be maintained 
+Navigation components should be placed consistently on the pages or in the framesets in the pages of the application. 
+When providing different access paths or navigation structures for different user groups, the tasks and information needs of these user groups should be taken into consideration. 
+It should be made evident to the user when individualization and/or adaptation are used. 
+If predefined user profiles or user-specified profiles are used for individualizing or adapting content, the profile currently used should be made evident. 
+If profiles are used, it is important to provide users with information about this concept and its implications. 
+If user-specified profiles are used, users should be able to see, modify and delete that profile on demand. 
+The user interfaces of the system should follow the guidelines specified under www.usability.gov.

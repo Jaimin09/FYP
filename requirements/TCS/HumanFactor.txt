@@ -1,0 +1,42 @@
+The TCS shall have ergonomically designed operator controls and displays for the 5th percentile female to 95th percentile male operator.
+The controls shall allow the air vehicle and payload operators to perform mission control, mission monitoring, and mission updates and modifications while wearing cold weather clothing and in a Mission Oriented Protective Posture.
+The TCS shall provide the operator a caution and warning diagnostic when the TCS system has identified a malfunction.
+The TCS shall have monitor(s) that allow reading of displays under direct sunlight and low light level environments.
+The TCS HCI shall be a Graphical User Interface based on X-windows and Motif.
+When performing a given task during mission execution, the operator shall be given appropriate warning messages from other concurrently-executing subsystem tasks.
+TCS Warning messages shall be color coded and flashed based on mission criticality. The color codes and flash frequencies will follow MIL-STD 1472 guidelines.
+The TCS operator shall be required to enter an acknowledgment prior to disabling the display of critical warning flags for any AV, Payload, ADT, GDT, and TCS faults.
+A combination of visual and auditory outputs will be provided to alert the TCS operator to situations which may require operator response. 
+Visual alerts to the TCS operator shall be in the form of a displayed message box that has a display priority greater than other existing windows to ensure that it is viewable immediately by the operator.
+The position of the displayed message window shall be easily adjustable by the operator to ensure that important mission data is not obscured.
+In addition to displayed alert messages to the TCS operator, auditory alerts to include tones shall also be provided. The volume of these auditory tones shall be adjustable by the operator via keyboard and trackball input to at least 20dB above the speech interference level at the operator’s ear. 
+All TCS warning messages and HCI actions shall be archived for later review.
+All TCS operator inputs shall be error checked such that any erroneous operator entry will not cause current processing to terminate. The HCI shall prompt the operator for a valid input.
+Display jitter and flicker shall not be perceptible by the operator.
+The operational tasks to be performed concurrently by the operator during normal operation will be determined by appropriate task analysis and function allocation. 
+The TCS shall facilitate Human Computer Interfaces that support operation of all system modes, functions, and capabilities.
+The Human Computer Interface shall be designed and implemented in accordance with the TCS HCI Specification. 
+The HCI shall provide redundancy in all operations, so that the loss of any one HCI input device does not prohibit operation of any TCS function. 
+The TCS shall provide the functionality to display all HCI elements on any available monitor on the TCS workstation.
+The TCS shall be capable of displaying a window within a window format to include, as a minimum, displaying a video window overlaid on a map screen as well as a map screen overlaid on a video screen.
+The TCS shall provide full complementary control operations from the keyset as well as the control device.
+The shall provide the functionality to have a maximum delay time of 1 second from operator command to system acknowledgement and response.
+The TCS shall provide a capability for porting an off-the-shelf, complex control joystick with multiple toggle and multi-position switches as part of the TCS hardware suite.
+The TCS shall use graphical representations to convey information, such as system status, C4I links, and AV-GDT links.
+The TCS shall provide for multi-level information display tailoring by the operator.
+The TCS shall provide automated TCS system information, control options, and logical & simple operator guidance and support for immediate and adaptive responding to crisis situations.
+The TCS shall provide maximum automated system software support to system status monitoring and alerting of the TCS operator when a preset system parameter goes under as well as over a set threshold.
+The TCS shall provide the necessary processing, display, and control capabilities to ensure dynamic situational awareness input to the TCS operator.
+The TCS shall minimize alphanumeric data display in favor of graphic, pictorial information display.
+The TCS HCI shall provide unambiguous AV and payload control and status feedback indicators to ensure safe, efficient operations of two AVs and their payloads by a single TCS station. 
+The TCS shall provide for a specific icon shape on a constant contrast background, as well as other visual information coding mechanisms, to cue the TCS operator regarding which UAVs are under his or her primary control.
+The TCS HCI shall provide the capability to select and amplify an object and point on a map as well as payload screen.
+The TCS HCI shall provide coarse and fine payload control capabilities directly on the payload screen.
+The TCS HCI shall provide the on-screen capability to select and efficiently move as well as reorient a previously defined SAR imaging swath.
+The TCS HCI shall provide the capability to lock onto and hold a coordinate point on the payload imagery window.
+The TCS HCI shall provide for separation, grouping, and visual coding of multiple categories of alerts, to include Warnings, Cautions, and Advisories.
+The TCS HCI shall provide for visual Warnings, Cautions, and Advisories to be displayed at or near the center of the field of view, i.e., within a 30o cone, of all monitors in a TCS system.
+For AV safety as well as mission-critical Warnings, the TCS HCI shall provide a default selection as well as an override option, along with a selection of adaptive responses, and the minimum information necessary to assist the operator in responding quickly and adaptively to the emergency.
+The TCS HCI shall provide for on-screen information to include, as a minimum, overlays, headers, cursors, alphanumeric annotation, waypoints, crosshairs, designed to be visible against the complete spectrum of map and payload video backgrounds.
+The TCS HCI shall provide continuously-available, on-screen control functions for time and mission- critical operations, to include as a minimum print, freeze, declassification, mark VCR, declutter, cease RF transmission.
+The TCS HCI shall provide for the capability to automatically designate target locations from the payload screen onto the map screen.

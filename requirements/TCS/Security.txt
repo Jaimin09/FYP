@@ -1,0 +1,9 @@
+Links that provide communications between the TCS and other systems shall be secured in a manner appropriate for the sensitivities of the material passed through such links.
+The TCS shall be designed to protect its communication and data links against enemy Electronic Warfare (EW) threats, physical anti-radiation weaponry and physical destruction. 
+All hardware, software, documentation, and sensitive information processed by TCS shall be physically protected, minimally at the level determined by the risk index computed in Section 381.
+The TCS shall be approved for operation at the same level as the systems with which it interfaces. 
+All TCS users, operators, maintainers and other personnel having access to TCS shall be cleared to the highest sensitivity of the data that the TCS processes, stores and transfers. 
+Additional local site procedures shall be developed to prevent the intentional or unintentional disclosure of sensitive information to unauthorized individuals. 
+A training program consisting of an initial security training and awareness briefing covering AIS security in general but also tailored to the TCS shall be developed. 
+ 
+ 

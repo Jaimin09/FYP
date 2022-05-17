@@ -1,0 +1,11 @@
+The TCS shall provide sufficient cues to allow the operator to safely take-off, land and navigate under Instrument Flight Rules. 
+The TCS shall provide adequate capability to allow the operator to operate each UAV within its certified operational flight envelope. 
+Appropriate cautions and warnings shall be provided to the operator if the air vehicle deviates into unsafe flight regime. 
+For mission planning, the TCS shall provide terrain avoidance warning and minimum reception altitude calculations for line of sight flights. 
+During mission execution, the TCS shall provide the operator a cautions and warnings when the UAV system has identified a malfunction. 
+The TCS shall provide the required information to allow the operator to maintain safe separation from other aircraft and a safe altitude in civilian airspace per Federal Aviation Administration (FAA) rules.
+The TCS shall be designed such that no single hardware failure results in an unsafe command to be transmitted to the air vehicle. 
+The TCS shall be designed such that no single software error results in an unsafe command to be transmitted to the air vehicle. 
+The TCS shall be capable of restoring power in sufficient time to avoid loss of air vehicle control during power outages. 
+The TCS shall monitor the uplink and downlink to each UAV under its control. 
+Upon detection of loss of link, the TCS shall attempt to reestablish communications with the air vehicle. 

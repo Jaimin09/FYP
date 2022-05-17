@@ -1,0 +1,18 @@
+The TCS data latency shall not be greater than that present in the Predator ground control station or Outrider ground control station, whichever is smaller. 
+The TCS reliability will be considered in every phase of the design and development process and shall achieve a system reliability equal to or greater than that which is specified in the Predator and Outrider ORDs. 
+The TCS maintainability will be considered in every phase of the design and development process and shall achieve a system maintainability equal to or greater than that which is specified in the Predator and Outrider ORDs. 
+Minimize the number and frequency of required preventive maintenance actions based on performance requirements and lowest life cycle costs. 
+Minimize the contribution to degradation of TCS equipment reliability as a consequence of performing either preventive as well as corrective maintenance.
+Enable the performance of all maintenance actions with safety and comparative ease by providing adequate access to all equipment components and minimizing the requirements for special tools and test equipment.
+Improve system availability by the effective selection and incorporation of Built In Test Equipment.
+The TCS equipment shall achieve an availability (Ao),  equal to or greater than that which is specified in the Predator and Outrider ORDs. 
+The total, fully useable, addressable, physically present program instruction memory and data storage memory for each processor shall have at least 50% unused memory during the Normal Operations Mode over any 10 second period. 
+The processing speed of each processor shall be such that at least 50% of the throughput of each processor remains unused over all 10 second periods and at least 20% of the throughput of each processor remains unused over one second periods regardless of the system function performed. 
+The I/O channel reserve capability for each processor shall have at least a 50% reserve, addressable and useable, I/O channel capacity over any 10 second period. 
+TCS software flexibility and expandability shall be provided through use of the DII COE and through use of standardized software development practices. 
+Hardware and software shall be selected for use in the TCS with the goal of providing ease of future changes to the TCS elements which will be as independent of host hardware as possible. 
+The selection of processors, interface cards for communication interfaces, disk drives, video, networking equipment, and all other hardware for use in the TCS shall be made according to standards for production of an open architecture. 
+The selection of operating system and programming language for use in the TCS shall be made according to standards for development of an open architecture. 
+The system shall be functionally and physically partitioned to allow for efficient fault isolation. 
+Test points and data paths shall be defined to support efficient fault isolation. 
+Control over internal items and devices shall be provided for detecting and isolating internal faults.
